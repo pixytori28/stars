@@ -1,0 +1,6 @@
+Temperature(K), Luminosity(L/Lo), Radius(R/Ro), Absolute magnitude(MV),Star type, Star color, Spectral Class
+3068, 0.0024, 0.17, 16.12, Brown Dwarf, Red, M
+25000, 0.056, 0.0084, 10.58, White Dwarf, Blue White, B
+2650, 0.00069, 0.11, 17.45, Brown Dwarf, Red, M
+11790, 0.00015, 0.011, 12.59, White Dwarf, Yellowish White, F
+5800, 0.81, 0.9, 5.05, Main Sequence, yellow-white, F
